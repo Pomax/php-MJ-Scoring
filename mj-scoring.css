@@ -1,0 +1,99 @@
+.flower-number {
+	color: #990000;
+}
+
+.flower {
+	color: #0000FF;
+}
+
+.season-number {
+	color: #000099;
+}
+
+.season {
+	color: #FF0000;
+}
+
+.centered {
+	text-align: center;
+}
+
+.label {
+	background-color: #EFEFFF;
+}
+
+.simplebordered {
+	border: solid;
+	border-width: 1px;
+	border-color: #D0D0F5;
+}
+
+.bordered {
+	border: solid;
+	border-width: 1px;
+	border-color: #D0D0F5;
+	margin-top: 0.5em;
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+}
+
+.padded {
+	padding: 1em;
+}
+
+.indented {
+	margin-left: 1em;
+}
+
+.bamboo {
+	background-color: #669966;
+}
+
+.characters {
+	background-color: #996666;
+}
+
+.dots {
+	background-color: #666699;
+}
+
+.small {
+	font-size: 0.8em;
+}
+
+.smallcaps {
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+.concealed {
+	background-color: #DDDDFF;
+}
+
+.turnwind {
+	color: #CBCEFF;
+}
+
+input, select {
+	background-color: #FFFFFF;
+	border: solid;
+	border-width: 1px;
+	border-color: #000000;
+}
+
+td {
+	vertical-align: top;
+}
+
+#scores {
+	display: none;
+	position:absolute;
+	left:4.1em;
+	top:2.8em;
+	width:800px;
+	z-index:1;
+	background-color: #FFFFFF;
+	border: solid;
+	border-width: 2px;
+	border-color: #000033;
+}
